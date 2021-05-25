@@ -1,0 +1,19 @@
+Label,  Latin Name			, Common Name                   , Train Images , Validation Images
+n0   , eulemur_flavifrons		, blue_eyed_black_lemur		, 58          , 29
+n1   , indri_indri			, Indri				, 42          , 21
+n2   , microcebus_berthae		, madame_berthes_mouse_lemur    , 39          , 14
+n3   , lepilemur_septentrionalis	, northern_sportive_lemur       , 56          , 21
+n4   , varecia_rubra			, red_ruffed_lemur              , 66          , 14
+n5   , propithecus_candidus		, silky_sifaka         		, 44          , 14
+
+
+
+
+
+
+
+
+
+
+
+
